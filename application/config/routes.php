@@ -53,6 +53,7 @@ $route['default_controller'] = 'dashboard';
 $route['404_override'] = '';
 $route['translate_uri_dashes'] = FALSE;
 
+<<<<<<< HEAD
 $route['admin'] = 'administrator/Admin_dashboard_controller/index';
 $route['admin/login'] = 'administrator/admin_auth_controller/index';
 $route['admin/logout'] = 'administrator/admin_auth_controller/logout';
@@ -72,3 +73,6 @@ $route['admin/produk/hapus/(:num)'] = 'administrator/Produk_controller/hapus_pro
 
 $route['admin/produk/hapus_gambar/(:num)/(:num)'] =
     'administrator/Produk_controller/hapus_gambar/$1/$2';
+=======
+$route['admin'] = 'administrator/Admin_dashboard_controller/index';
+>>>>>>> 37b6ec0657b0c4864c227d0ba038598c3b0c9d7f

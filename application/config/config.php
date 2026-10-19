@@ -23,7 +23,11 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
+<<<<<<< HEAD
 $config['base_url'] = 'http://localhost/pwb_2422500064';
+=======
+$config['base_url'] = 'http://localhost/pwb_2422500018';
+>>>>>>> 37b6ec0657b0c4864c227d0ba038598c3b0c9d7f
 
 /*
 |--------------------------------------------------------------------------
@@ -35,7 +39,11 @@ $config['base_url'] = 'http://localhost/pwb_2422500064';
 | variable so that it is blank.
 |
 */
+<<<<<<< HEAD
 $config['index_page'] = '';
+=======
+$config['index_page'] = 'index.php';
+>>>>>>> 37b6ec0657b0c4864c227d0ba038598c3b0c9d7f
 
 /*
 |--------------------------------------------------------------------------

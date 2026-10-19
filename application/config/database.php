@@ -78,7 +78,11 @@ $db['default'] = array(
 	'hostname' => 'localhost',
 	'username' => 'root',
 	'password' => '',
+<<<<<<< HEAD
 	'database' => 'pwb_2422500064',
+=======
+	'database' => 'pwb_2422500018',
+>>>>>>> 37b6ec0657b0c4864c227d0ba038598c3b0c9d7f
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
